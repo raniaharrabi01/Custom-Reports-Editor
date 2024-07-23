@@ -5,7 +5,7 @@
 Le projet **Custom Reports Editor Frontend** vise à développer une application web dynamique et interactive pour la création, l'édition et la gestion de rapports personnalisés. Utilisant les technologies modernes telles que **React** et **Tailwind CSS**, ce projet offre une interface utilisateur intuitive et performante, permettant aux utilisateurs de concevoir des rapports sur mesure en fonction de leurs besoins spécifiques.
 
 Les fonctionnalités clés de l'application incluent :
-- **Choix de la Source de Données :** Les utilisateurs peuvent choisir entre un fichier CSV ou une API comme source de données.
+- **Choix de la Source de Données :** Les utilisateurs peuvent choisir entre un fichier CSV ou une base de données comme source de données.
 - **Personnalisation des Rapports :** Ajouter, modifier et supprimer des éléments dans les rapports.
 - **Exportation Multi-Format :** Exporter les rapports vers différents formats, notamment PDF et Excel.
 

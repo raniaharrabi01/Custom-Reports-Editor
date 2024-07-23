@@ -1,0 +1,55 @@
+.btn {
+  background: transparent;
+  color: #ffffff;
+  border: 2px solid rgba(255, 255, 255, 0.2)!important;
+  outline: none;
+  border-radius: 40px !important;
+  font-weight: 300;
+  cursor: pointer;
+  font-size: 10px;
+  height: 25px;
+}
+
+.btn:hover {
+  color: #d97aa6;
+}
+
+.btn-save {
+  width: 200px;
+}
+
+.btn-return {
+  width: 90px;
+}
+
+.btn-Générer {
+  width: 180px;
+}
+
+.btn-Contexte {
+  width: 185px;
+}
+
+.gjs-pn-devices-c {
+  display: none !important;
+}
+
+.gjs-frame {
+  max-width: 700px;
+}
+
+[data-gjs-type="wrapper"] {
+  padding: 10px !important;
+}
+
+.gjs-one-bg{
+  background-color: rgb(38 48 69)!important;
+}
+
+.gjs-frame-wrapper{
+  background-color: rgb(36 48 63 / var(--tw-bg-opacity));
+}
+
+.gjs-two-color{
+ color: rgb(255, 255, 255) !important;
+}
